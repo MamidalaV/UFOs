@@ -1,7 +1,7 @@
 # UFOs
 
 ## PURPOSE:
-The purpose of this project is to create a web application usong HTML and JavaScript that has the data of all UFOs sighted in Unites States between Jan 1, 2010 and Jan 13, 2010. 
+The purpose of this project is to create a web application using HTML and JavaScript. The source data has all the UFOs sighted in Unites States between Jan 1, 2010 and Jan 13, 2010. 
 
 ## BUILD:
 
