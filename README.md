@@ -3,12 +3,10 @@
 ## PURPOSE:
 The purpose of this project is to create a web application usong HTML and JavaScript that has the data of all UFOs sighted in Unites States between Jan 1, 2010 and Jan 13, 2010. 
 
-This 
-
-## RESULTS:
+## BUILD:
 
 ### Data Source: 
-Data source provided for this project is a JavaScript file. The file can be found !!HERE!! and image of the same is included here as a sample.
+Data source provided for this project is a JavaScript file. The file can be found ![HERE](https://github.com/MamidalaV/UFOs/blob/main/static/js/data.js) and image of the same is included here as a sample.
 
 ![datafile](https://user-images.githubusercontent.com/74985818/117519416-5c526100-af71-11eb-877e-c4569f22a072.png)
 
@@ -44,9 +42,7 @@ The layout has of the webpage is divided as below to fit all the essential requi
 
 ### Webapp using JavaScript:
 
-The code for this application can be found !!HERE!!.
-
-The build of the application can be best described this way:
+The code for this application can be found ![HERE](https://github.com/MamidalaV/UFOs/blob/main/static/js/app.js). And the build of the application can be best described this way:
 - **Step 1:** Bring in the data
 - **Step 2:** Get table references using "tbody" tag.
 - **Step 3:** Loop through each object in the data and append a row and cells for each value in the row of the table.
@@ -60,11 +56,11 @@ The build of the application can be best described this way:
 - **Step 11:** Rebuild the table using the filtered data
 - **Step 12:** Finally, include a listener event for changes to each filter.
 
-### Functionality:
+### RESULTS:
 
 - Upon launching the page, all records of data in the `data.js` file loads into the table within the webpage.
 - Using the filters provided for Date, City, State, Country and Shape of the UFO, you can filter the data as needed.
-- Once a value is entered into any of these input fields, the listener event added in the JavaScript will automatically pick up the value and filters the data.
+- Once a value is entered into any of these input fields, the listener event added in the JavaScript will automatically pick up the value and filter the data.
 - You can enter one of the 5 or all of the input values to slice the data as needed.
 
 #### Example:
@@ -72,3 +68,13 @@ The build of the application can be best described this way:
 
 
 ## Summary:
+
+#### FINAL PRODUCT:
+![final_product](https://user-images.githubusercontent.com/74985818/117521296-0be00100-af7b-11eb-85cf-9d5e96e95a34.png)
+
+#### Takeaways:
+1. Drawback of this page is that there is no option to clear the input values by a click of a button. Instead, the values will have to manually deleted or the entire page must be refreshed to get the table back in its original form.
+
+2. I would like to make 2 Recommendations for futher development:
+    a) Include an option right next to the input cell to clear the values entered in that cell.
+    b) Make the reference to the data source dynamic by connecting the webpage to the true source instead of downloading the `data.js` everytime.
