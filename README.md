@@ -58,7 +58,7 @@ The code for this application can be found ![HERE](https://github.com/MamidalaV/
 
 ### RESULTS:
 
-- Upon launching the page, all records of data in the `data.js` file loads into the table within the webpage.
+- Upon launching the page, all records within the `data.js` file loads into the table within the webpage.
 - Using the filters provided for Date, City, State, Country and Shape of the UFO, you can filter the data as needed.
 - Once a value is entered into any of these input fields, the listener event added in the JavaScript will automatically pick up the value and filter the data.
 - You can enter one of the 5 or all of the input values to slice the data as needed.
