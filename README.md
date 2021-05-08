@@ -69,6 +69,10 @@ The code for this application can be found ![HERE](https://github.com/MamidalaV/
 
 ## Summary:
 
+#### FINAL PRODUCT:
+![final_product](https://user-images.githubusercontent.com/74985818/117521296-0be00100-af7b-11eb-85cf-9d5e96e95a34.png)
+
+#### Takeaways:
 1. Drawback of this page is that there is no option to clear the input values by a click of a button. Instead, the values will have to manually deleted or the entire page must be refreshed to get the table back in its original form.
 
 2. I would like to make 2 Recommendations for futher development:
