@@ -3,12 +3,10 @@
 ## PURPOSE:
 The purpose of this project is to create a web application usong HTML and JavaScript that has the data of all UFOs sighted in Unites States between Jan 1, 2010 and Jan 13, 2010. 
 
-This 
-
 ## RESULTS:
 
 ### Data Source: 
-Data source provided for this project is a JavaScript file. The file can be found !!HERE!! and image of the same is included here as a sample.
+Data source provided for this project is a JavaScript file. The file can be found ![HERE](https://github.com/MamidalaV/UFOs/blob/main/static/js/data.js) and image of the same is included here as a sample.
 
 ![datafile](https://user-images.githubusercontent.com/74985818/117519416-5c526100-af71-11eb-877e-c4569f22a072.png)
 
@@ -44,9 +42,7 @@ The layout has of the webpage is divided as below to fit all the essential requi
 
 ### Webapp using JavaScript:
 
-The code for this application can be found !!HERE!!.
-
-The build of the application can be best described this way:
+The code for this application can be found ![HERE](https://github.com/MamidalaV/UFOs/blob/main/static/js/app.js). And the build of the application can be best described this way:
 - **Step 1:** Bring in the data
 - **Step 2:** Get table references using "tbody" tag.
 - **Step 3:** Loop through each object in the data and append a row and cells for each value in the row of the table.
@@ -72,3 +68,4 @@ The build of the application can be best described this way:
 
 
 ## Summary:
+
