@@ -77,5 +77,5 @@ The code for this application can be found ![HERE](https://github.com/MamidalaV/
 1. Drawback of this page is that there is no option to clear the input values by a click of a button. Instead, the values will have to manually deleted or the entire page must be refreshed to get the table back in its original form.
 
 2. I would like to make 2 Recommendations for futher development:
-    a) Include an option right next to the input cell to clear the values entered in that cell.
-    b) Make the reference to the data source dynamic by connecting the webpage to the true source instead of downloading the `data.js` everytime.
+    - a) Include an option right next to the input cell to clear the values entered in that cell.
+    - b) Make the reference to the data source dynamic by connecting the webpage to the true source instead of downloading the `data.js` everytime.
